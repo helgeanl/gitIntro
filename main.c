@@ -12,10 +12,6 @@ int main(int argc, char *argv[])
 
 	sort(argc,argv);
 
-
-    printf("This will never stop!\n");
-    while(1);
-
 	printf("Arguments after sort: ");
 
 	for (i=1;i<argc;i++)
