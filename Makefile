@@ -1,7 +1,7 @@
 #https://www.gnu.org/software/make/manual/make.html#Introduction
 
 # program executable name
-TARGET = sort_args
+TARGET = sort_args.app
 
 # compiler flags
 CFLAGS = -g -Wall
